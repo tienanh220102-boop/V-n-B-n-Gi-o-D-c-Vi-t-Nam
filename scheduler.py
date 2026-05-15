@@ -144,10 +144,25 @@ def run_update_cycle(bot: TelegramNotifier, tracker: DocTracker,
 # Vòng lặp chính
 # ------------------------------------------------------------------ #
 
+def send_latest(bot: TelegramNotifier, n: int = 5):
+    """Cào và gửi N văn bản mới nhất lên Telegram (bất kể đã seen chưa)."""
+    logger.info(f'====== Gửi {n} văn bản mới nhất ======')
+    docs_by_source = run_scrapers(max_pages=2, fetch_detail=False)
+    all_docs = [d for docs in docs_by_source.values() for d in docs]
+    if not all_docs:
+        bot.send('⚠️ Không cào được văn bản nào.')
+        return
+    latest = all_docs[:n]
+    logger.info(f'Gửi {len(latest)} văn bản lên Telegram...')
+    bot.notify_new_docs(latest)
+    logger.info('Gửi xong.')
+
+
 def main():
     parser = argparse.ArgumentParser(description='Scheduler tự động theo dõi văn bản giáo dục')
-    parser.add_argument('--once',   action='store_true', help='Chạy 1 lần rồi thoát')
-    parser.add_argument('--test',   action='store_true', help='Test: 2 trang, không gửi Telegram')
+    parser.add_argument('--once',        action='store_true', help='Chạy 1 lần rồi thoát')
+    parser.add_argument('--test',        action='store_true', help='Test: 2 trang, không gửi Telegram')
+    parser.add_argument('--send-latest', type=int, metavar='N', help='Gửi N văn bản mới nhất lên Telegram ngay')
     args = parser.parse_args()
 
     # Khởi tạo bot và tracker
@@ -164,6 +179,11 @@ def main():
         if not bot.test_connection():
             print('\n[LỖI] Không kết nối được Telegram. Kiểm tra lại BOT_TOKEN.\n')
             sys.exit(1)
+
+    # Gửi N văn bản mới nhất
+    if args.send_latest:
+        send_latest(bot, args.send_latest)
+        return
 
     # Chạy 1 lần
     if args.once or args.test:
