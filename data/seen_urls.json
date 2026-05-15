@@ -1,5 +1,256 @@
 {
-  "seen_urls": {},
-  "last_run": null,
-  "total_sent": 0
+  "seen_urls": {
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218032": {
+      "so_hieu": "807/QĐ-TTg",
+      "ten": "Về việc thành lập Phân hiệu Trường Đại học Tài chính - Marketing tại tỉnh Quảng ",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218031": {
+      "so_hieu": "806/QĐ-TTg",
+      "ten": "Về việc sáp nhập Trường Cao đẳng Luật miền Bắc vào Trường Đại học Khoa học trực ",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218030": {
+      "so_hieu": "805/QĐ-TTg",
+      "ten": "Về việc sáp nhập Trường Cao đẳng Luật miền Nam vào Đại học Cần Thơ",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218043": {
+      "so_hieu": "38/2026/TT-BGDĐT",
+      "ten": "Ban hành chuẩn cơ sở giáo dục nghề nghiệp",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218014": {
+      "so_hieu": "37/2026/TT-BGDĐT",
+      "ten": "Ban hành danh mục ngành, nghề đặc thù thuộc lĩnh vực nghệ thuật, thể thao",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217951": {
+      "so_hieu": "05/VBHN-BGDĐT",
+      "ten": "Ban hành quy định việc tổ chức đào tạo, bồi dưỡng và cấp chứng chỉ tiếng dân tộc",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217950": {
+      "so_hieu": "04/VBHN-BGDĐT",
+      "ten": "Quy định về dạy thêm, học thêm",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217948": {
+      "so_hieu": "36/2026/TT-BGDĐT",
+      "ten": "Ban hành Quy chế tổ chức và hoạt động của trường dự bị đại học",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217909": {
+      "so_hieu": "03/VBHN-BGDĐT",
+      "ten": "Quy định lộ trình thực hiện nâng trình độ chuẩn được đào tạo của giáo viên mầm n",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217908": {
+      "so_hieu": "35/2026/TT-BGDĐT",
+      "ten": "Hướng dẫn một số nội dung trong hoạt động đầu tư theo phương thức đối tác công t",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217907": {
+      "so_hieu": "34/2026/TT-BGDĐT",
+      "ten": "Quy định về việc xác định số lượng tuyển sinh đại học, thạc sĩ, tiến sĩ và số lư",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217887": {
+      "so_hieu": "02/VBHN-BGDĐT",
+      "ten": "Ban hành Quy chế thi tốt nghiệp trung học phổ thông",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217847": {
+      "so_hieu": "691/QĐ-TTg",
+      "ten": "Về việc thành lập Phân hiệu Học viện Tài chính tại tỉnh Hưng Yên trên cơ sở Trườ",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217873": {
+      "so_hieu": "33/2026/TT-BGDĐT",
+      "ten": "Ban hành Khung năng lực ngoại ngữ dùng cho Việt Nam",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217843": {
+      "so_hieu": "32/2026/TT-BGDĐT",
+      "ten": "Quy định việc xác định tương đương chức danh nhà giáo",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217840": {
+      "so_hieu": "31/2026/TT-BGDĐT",
+      "ten": "Quy định mã số, bổ nhiệm chức danh và xếp lương đối với nhà giáo trong cơ sở giá",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217839": {
+      "so_hieu": "30/2026/TT-BGDĐT",
+      "ten": "Quy định chuẩn nghề nghiệp giáo viên cơ sở giáo dục phổ thông",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217906": {
+      "so_hieu": "29/2026/TT-BGDĐT",
+      "ten": "Quy định danh mục nhiệm vụ, hoạt động, định mức khoán chi cho từng nhiệm vụ, hoạ",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217730": {
+      "so_hieu": "28/2026/TT-BGDĐT",
+      "ten": "Quy định Chuẩn nghề nghiệp giáo viên mầm non",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217729": {
+      "so_hieu": "27/2026/TT-BGDĐT",
+      "ten": "Quy định chuẩn nghề nghiệp giáo viên trường dự bị đại học",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217721": {
+      "so_hieu": "26/2026/TT-BGDĐT",
+      "ten": "Quy định chuẩn nghề nghiệp giảng viên đại học",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217720": {
+      "so_hieu": "25/2026/TT-BGDĐT",
+      "ten": "Quy định chuẩn nghề nghiệp giảng viên cao đẳng",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217719": {
+      "so_hieu": "24/2026/TT-BGDĐT",
+      "ten": "Quy định chuẩn nghề nghiệp giáo viên sơ cấp, giáo viên trung cấp",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217727": {
+      "so_hieu": "23/2026/TT-BGDĐT",
+      "ten": "Quy định mã số, chuẩn nghề nghiệp, bổ nhiệm chức danh và xếp lương đối với giáo ",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217693": {
+      "so_hieu": "103/NQ-CP",
+      "ten": "Ban hành kế hoạch triển khai thực hiện Nghị quyết số 249/2025/QH15 ngày 10 tháng",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217673": {
+      "so_hieu": "125/2026/NĐ-CP",
+      "ten": "Quy định về hoạt động khoa học, công nghệ và đổi mới sáng tạo trong cơ sở giáo d",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217682": {
+      "so_hieu": "22/2026/TT-BGDĐT",
+      "ten": "Quy định tiêu chuẩn, quy trình chuyển thể, chỉnh sửa cập nhật sách giáo khoa bản",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217508": {
+      "so_hieu": "530/QĐ-TTg",
+      "ten": "Phê duyệt Chương trình thu hút chuyên gia, nhà khoa học là người nước ngoài và n",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217385": {
+      "so_hieu": "525/QĐ-TTg",
+      "ten": "Phê duyệt Chương trình đào tạo, bồi dưỡng 10.000 giám đốc điều hành đến năm 2030",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217550": {
+      "so_hieu": "108/2026/NĐ-CP",
+      "ten": "Sửa đổi, bổ sung một số điều của Nghị định số 140/2021/NĐ-CP ngày 31 tháng 12 nă",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217724": {
+      "so_hieu": "95/2026/NĐ-CP",
+      "ten": "Quy định chi tiết một số điều của Luật Giáo dục nghề nghiệp",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217390": {
+      "so_hieu": "94/2026/NĐ-CP",
+      "ten": "Quy định về hoạt động đào tạo và sát hạch lái xe",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217499": {
+      "so_hieu": "93/2026/NĐ-CP",
+      "ten": "Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Nhà giáo",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217681": {
+      "so_hieu": "21/2026/TT-BGDĐT",
+      "ten": "Quy định về giám định tư pháp trong lĩnh vực giáo dục và đào tạo",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217680": {
+      "so_hieu": "20/2026/TT-BGDĐT",
+      "ten": "Quy định về kiểm định chất lượng cơ sở giáo dục đại học",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217679": {
+      "so_hieu": "19/2026/TT-BGDĐT",
+      "ten": "Sửa đổi, bổ sung một số điều của Thông tư số 29/2024/TT-BGDĐT ngày 30 tháng 12 n",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217408": {
+      "so_hieu": "91/2026/NĐ-CP",
+      "ten": "Quy định chi tiết và biện pháp tổ chức, hướng dẫn thi hành một số điều của Luật ",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217356": {
+      "so_hieu": "88/2026/NĐ-CP",
+      "ten": "Quy định quản lý dữ liệu giáo dục và đào tạo",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217451": {
+      "so_hieu": "18/2026/TT-BGDĐT",
+      "ten": "Ban hành Khung năng lực số đối với giáo viên, cán bộ quản lý cơ sở giáo dục mầm ",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217404": {
+      "so_hieu": "17/2026/TT-BGDĐT",
+      "ten": "Quy định tiêu chuẩn người đứng đầu và cấp phó của người đứng đầu cơ sở giáo dục ",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217321": {
+      "so_hieu": "16/2026/TT-BGDĐT",
+      "ten": "Quy định về hướng nghiệp và phân luồng trong giáo dục",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217678": {
+      "so_hieu": "15/2026/TT-BGDĐT",
+      "ten": "Ban hành Điều lệ trường tiểu học, trường trung học cơ sở, trường trung học phổ t",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217256": {
+      "so_hieu": "14/2026/TT-BGDĐT",
+      "ten": "Ban hành Chương trình giáo dục phổ thông môn Tiếng Raglai cấp Tiểu học",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217189": {
+      "so_hieu": "13/2026/TT-BGDĐT",
+      "ten": "Sửa đổi, bổ sung một số điều của Quy chế thi tốt nghiệp trung học phổ thông ban ",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217128": {
+      "so_hieu": "12/2026/TT-BGDĐT",
+      "ten": "Ban hành Quy chế tổ chức và hoạt động của trường phổ thông nội trú",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217127": {
+      "so_hieu": "11/2026/TT-BGDĐT",
+      "ten": "Quy định chế độ làm việc đối với giáo viên mầm non",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217152": {
+      "so_hieu": "66/2026/NĐ-CP",
+      "ten": "Quy định chi tiết một số điều của Luật Giáo dục",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217140": {
+      "so_hieu": "10/2026/TT-BGDĐT",
+      "ten": "Ban hành Quy chế văn bằng, chứng chỉ của hệ thống giáo dục quốc dân",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217139": {
+      "so_hieu": "09/2026/TT-BGDĐT",
+      "ten": "Quy định tổ chức thi đánh giá năng lực ngoại ngữ và tổ chức thi đánh giá năng lự",
+      "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=217074": {
+      "so_hieu": "08/2026/TT-BGDĐT",
+      "ten": "Ban hành Quy định về đánh giá diện rộng cấp quốc gia chất lượng giáo dục phổ thô",
+      "marked_at": "2026-05-15T09:42:30"
+    }
+  },
+  "last_run": "2026-05-15T09:42:30",
+  "total_sent": 50
 }
