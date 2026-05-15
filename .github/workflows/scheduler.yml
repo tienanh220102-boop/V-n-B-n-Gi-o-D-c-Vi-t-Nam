@@ -1,0 +1,41 @@
+name: Van Ban Giao Duc — Tu dong cap nhat moi gio
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # Mỗi đầu giờ (UTC) — tức 7:00, 8:00, 9:00... giờ VN (UTC+7)
+  workflow_dispatch:        # Cho phép bấm chạy thủ công trên GitHub
+
+jobs:
+  scrape-and-notify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Cần để commit seen_urls.json lại repo
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper & send Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scheduler.py --once
+
+      - name: Luu state (seen_urls.json) len GitHub
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/seen_urls.json
+          git diff --staged --quiet || git commit -m "chore: cap nhat seen_urls [skip ci]"
+          git push

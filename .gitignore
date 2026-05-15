@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Output — không cần lưu lên GitHub
+output/*.xlsx
+output/*.log
+output/scraper.log
+
+# Giữ thư mục output nhưng bỏ nội dung
+!output/.gitkeep
+
+# State file — PHẢI giữ lại (lưu danh sách văn bản đã gửi)
+# data/seen_urls.json  ← KHÔNG gitignore file này
+
+# IDE
+.vscode/
+.idea/
+*.swp
