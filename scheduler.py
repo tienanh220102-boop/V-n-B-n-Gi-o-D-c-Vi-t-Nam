@@ -124,8 +124,7 @@ def run_update_cycle(bot: TelegramNotifier, tracker: DocTracker,
                 logger.info(f'Đã gửi {sent} văn bản lên Telegram')
                 tracker.mark_seen(new_docs)
             else:
-                bot.notify_no_new()
-                logger.info('Không có văn bản mới — đã thông báo')
+                logger.info('Không có văn bản mới — bỏ qua')
 
         tracker.update_last_run()
 
