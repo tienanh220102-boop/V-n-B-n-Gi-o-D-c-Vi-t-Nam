@@ -249,8 +249,18 @@
       "so_hieu": "08/2026/TT-BGDĐT",
       "ten": "Ban hành Quy định về đánh giá diện rộng cấp quốc gia chất lượng giáo dục phổ thô",
       "marked_at": "2026-05-15T09:42:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218145": {
+      "so_hieu": "1169/QĐ-BGDĐT",
+      "ten": "Ban hành Chuẩn chương trình đào tạo Khối ngành Kiến trúc - Xây dựng trình độ đại",
+      "marked_at": "2026-05-18T09:05:43"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218142": {
+      "so_hieu": "40/2026/TT-BGDĐT",
+      "ten": "Quy định về công tác sinh viên",
+      "marked_at": "2026-05-18T09:05:43"
     }
   },
-  "last_run": "2026-05-18T08:05:41",
-  "total_sent": 50
+  "last_run": "2026-05-18T09:05:43",
+  "total_sent": 52
 }
