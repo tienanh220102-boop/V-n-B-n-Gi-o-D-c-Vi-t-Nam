@@ -299,8 +299,13 @@
       "so_hieu": "966/QĐ-TTg",
       "ten": "Về việc phê duyệt Đề án phát triển một số cơ sở giáo dục đại học lớn ở vùng Đông",
       "marked_at": "2026-06-01T08:05:20"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218320": {
+      "so_hieu": "61 /2026/QĐ-UBND",
+      "ten": "Ban hành Quy chế đào tạo, bồi dưỡng cán bộ, công chức, viên chức trên địa bàn tỉ",
+      "marked_at": "2026-06-02T09:06:23"
     }
   },
-  "last_run": "2026-06-02T08:06:20",
-  "total_sent": 60
+  "last_run": "2026-06-02T09:06:23",
+  "total_sent": 61
 }
