@@ -30,7 +30,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python scheduler.py --once
+        run: python scripts/scheduler.py --once
 
       - name: Luu state (seen_urls.json) len GitHub
         run: |
@@ -38,4 +38,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/seen_urls.json
           git diff --staged --quiet || git commit -m "chore: cap nhat seen_urls [skip ci]"
+          git pull --rebase -X theirs
           git push
