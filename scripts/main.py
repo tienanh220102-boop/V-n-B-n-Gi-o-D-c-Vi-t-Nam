@@ -27,8 +27,8 @@ if sys.stdout.encoding and sys.stdout.encoding.lower() != 'utf-8':
 if sys.stderr.encoding and sys.stderr.encoding.lower() != 'utf-8':
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8', errors='replace')
 
-# Thêm thư mục hiện tại vào sys.path để import đúng
-sys.path.insert(0, str(Path(__file__).parent))
+# Thêm project root vào sys.path để import scrapers/, utils/, config.py
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from scrapers.chinhphu import ChinhPhuScraper
 from scrapers.vbpl import VbplScraper
