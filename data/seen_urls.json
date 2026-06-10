@@ -309,8 +309,18 @@
       "so_hieu": "42/2026/TT-BGDĐT",
       "ten": "Hướng dẫn thực hiện một số nội dung tiêu chí thuộc Bộ tiêu chí quốc gia về xã nô",
       "marked_at": "2026-06-09T09:05:16"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218393": {
+      "so_hieu": "44/2026/TT-BGDĐT",
+      "ten": "Quy định về trình tự, thủ tục xây dựng, thẩm định, ban hành, quản lý, tổ chức th",
+      "marked_at": "2026-06-10T09:05:25"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218392": {
+      "so_hieu": "43/2026/TT-BGDĐT",
+      "ten": "Quy định tiêu chuẩn người dạy nghề",
+      "marked_at": "2026-06-10T09:05:25"
     }
   },
-  "last_run": "2026-06-10T08:06:09",
-  "total_sent": 62
+  "last_run": "2026-06-10T09:05:25",
+  "total_sent": 64
 }
