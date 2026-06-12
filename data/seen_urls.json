@@ -319,8 +319,13 @@
       "so_hieu": "43/2026/TT-BGDĐT",
       "ten": "Quy định tiêu chuẩn người dạy nghề",
       "marked_at": "2026-06-10T09:05:25"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218411": {
+      "so_hieu": "45/2026/TT-BGDĐT",
+      "ten": "Sửa đổi, bổ sung một số điều của Thông tư số 15/2025/TT-BGDĐT ngày 24/7/2025 của",
+      "marked_at": "2026-06-12T08:05:50"
     }
   },
-  "last_run": "2026-06-12T07:05:53",
-  "total_sent": 64
+  "last_run": "2026-06-12T08:05:50",
+  "total_sent": 65
 }
