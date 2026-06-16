@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python main.py*)",
+      "Bash(python scheduler.py*)",
+      "Bash(pytest*)",
+      "Bash(pip install*)",
+      "Bash(pip list*)",
+      "Bash(git status*)",
+      "Bash(git log*)",
+      "Bash(git diff*)"
+    ],
+    "deny": []
+  }
+}

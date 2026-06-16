@@ -21,3 +21,8 @@ output/scraper.log
 .vscode/
 .idea/
 *.swp
+
+# Secret files — KHONG bao gio commit .env that (chi giu .env.example)
+.env
+.env.*
+!.env.example
