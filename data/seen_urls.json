@@ -334,8 +334,13 @@
       "so_hieu": "15/2026/TT-TANDTC",
       "ten": "Ban hành Quy định về công tác đào tạo, bồi dưỡng trong Tòa án nhân dân",
       "marked_at": "2026-06-23T04:05:16"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218566": {
+      "so_hieu": "47/2026/TT-BGDĐT",
+      "ten": "Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban",
+      "marked_at": "2026-06-25T09:05:18"
     }
   },
-  "last_run": "2026-06-25T08:05:48",
-  "total_sent": 67
+  "last_run": "2026-06-25T09:05:18",
+  "total_sent": 68
 }
