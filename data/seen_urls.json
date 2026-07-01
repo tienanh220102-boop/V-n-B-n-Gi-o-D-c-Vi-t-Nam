@@ -339,8 +339,13 @@
       "so_hieu": "47/2026/TT-BGDĐT",
       "ten": "Bãi bỏ một số văn bản quy phạm pháp luật do Bộ trưởng Bộ Giáo dục và Đào tạo ban",
       "marked_at": "2026-06-25T09:05:18"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218649": {
+      "so_hieu": "48/2026/TT-BGDĐT",
+      "ten": "Ban hành Quy chế tổ chức và hoạt động của trường tiểu học, trường trung học cơ s",
+      "marked_at": "2026-07-01T09:55:02"
     }
   },
-  "last_run": "2026-07-01T09:05:44",
-  "total_sent": 68
+  "last_run": "2026-07-01T09:55:02",
+  "total_sent": 69
 }
