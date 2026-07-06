@@ -364,8 +364,13 @@
       "so_hieu": "49/2026/TT-BGDĐT",
       "ten": "Quy định ứng dụng công nghệ trong giáo dục đại học, giáo dục nghề nghiệp",
       "marked_at": "2026-07-06T04:05:30"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218744": {
+      "so_hieu": "271/2026/NĐ-CP",
+      "ten": "Quy định về miễn phí sách giáo khoa giáo dục phổ thông và miễn học phí, giáo trì",
+      "marked_at": "2026-07-06T10:30:00"
     }
   },
-  "last_run": "2026-07-06T10:06:05",
-  "total_sent": 73
+  "last_run": "2026-07-06T10:30:00",
+  "total_sent": 74
 }
