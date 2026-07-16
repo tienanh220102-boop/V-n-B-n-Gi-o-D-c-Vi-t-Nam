@@ -389,8 +389,18 @@
       "so_hieu": "36/2026/QĐ-TTg",
       "ten": "Quy định nguyên tắc, tiêu chí, định mức phân bổ ngân sách trung ương và tỷ lệ vố",
       "marked_at": "2026-07-16T08:05:34"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218882": {
+      "so_hieu": "54/2026/TT-BGDĐT",
+      "ten": "Quy định về chương trình đào tạo các trình độ của giáo dục đại học",
+      "marked_at": "2026-07-16T09:06:06"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218880": {
+      "so_hieu": "53/2026/TT-BGDĐT",
+      "ten": "Ban hành Quy chế tuyển sinh và đào tạo sau đại học",
+      "marked_at": "2026-07-16T09:06:06"
     }
   },
-  "last_run": "2026-07-16T08:05:34",
-  "total_sent": 78
+  "last_run": "2026-07-16T09:06:06",
+  "total_sent": 80
 }
