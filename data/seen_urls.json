@@ -434,8 +434,23 @@
       "so_hieu": "61/2026/TT-BGDĐT",
       "ten": "Quy định về khai thác, sử dụng tài nguyên giáo dục mở trong hoạt động giáo dục đ",
       "marked_at": "2026-07-23T11:05:19"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218979": {
+      "so_hieu": "39/2026/QĐ-TTg",
+      "ten": "Quy định về Khung trình độ quốc gia Việt Nam",
+      "marked_at": "2026-07-24T10:05:29"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218980": {
+      "so_hieu": "38/2026/QĐ-TTg",
+      "ten": "Quy định Khung cơ cấu hệ thống giáo dục quốc dân",
+      "marked_at": "2026-07-24T10:05:29"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=218981": {
+      "so_hieu": "35/2026/NQ-CP",
+      "ten": "Gia hạn thời hạn hoạt động Dự án Phân hiệu Trường Đại học RMIT Việt Nam tại Hà N",
+      "marked_at": "2026-07-24T10:05:29"
     }
   },
-  "last_run": "2026-07-24T09:06:01",
-  "total_sent": 87
+  "last_run": "2026-07-24T10:05:29",
+  "total_sent": 90
 }
