@@ -689,8 +689,18 @@
       "so_hieu": "04/QĐ-HĐĐHTTTC",
       "ten": "Phê duyệt Kế hoạch phát triển Trung tâm tài chính quốc tế tại Việt Nam đến năm 2",
       "marked_at": "2026-07-30T11:08:40"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219045": {
+      "so_hieu": "62/2026/TT-BGDĐT",
+      "ten": "Quy định quy trình biên soạn, ban hành chương trình, giáo trình dạy và học các m",
+      "marked_at": "2026-07-31T08:05:27"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219044": {
+      "so_hieu": "56/2026/TT-BGDĐT",
+      "ten": "Ban hành Quy chế đào tạo trình độ đại học",
+      "marked_at": "2026-07-31T08:05:27"
     }
   },
-  "last_run": "2026-07-31T07:56:00",
-  "total_sent": 138
+  "last_run": "2026-07-31T08:05:27",
+  "total_sent": 140
 }
