@@ -724,8 +724,33 @@
       "so_hieu": "317/2026/NĐ-CP",
       "ten": "Quy định về tổ chức, quản lý và sử dụng Quỹ Học bổng Quốc gia",
       "marked_at": "2026-08-13T04:54:09"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219178": {
+      "so_hieu": "1555/QĐ-TTg",
+      "ten": "Ban hành Khung chương trình đào tạo, bồi dưỡng về quản trị dữ liệu",
+      "marked_at": "2026-08-13T10:10:44"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219179": {
+      "so_hieu": "66/2026/TT-BGDĐT",
+      "ten": "Hướng dẫn tiêu chuẩn, định mức sử dụng máy móc, thiết bị chuyên dùng trong lĩnh ",
+      "marked_at": "2026-08-13T10:10:44"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219177": {
+      "so_hieu": "65/2026/TT-BGDĐT",
+      "ten": "Quy định về điều kiện, trình tự, thủ tục, thẩm quyền công nhận văn bằng do cơ sở",
+      "marked_at": "2026-08-13T10:10:44"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219176": {
+      "so_hieu": "64/2026/TT-BGDĐT",
+      "ten": "Quy định mã số, chuẩn nghề nghiệp, bổ nhiệm, xếp lương và chế độ làm việc đối vớ",
+      "marked_at": "2026-08-13T10:10:44"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219173": {
+      "so_hieu": "63/2026/TT-BGDĐT",
+      "ten": "Ban hành Điều lệ trường trung cấp, trường cao đẳng",
+      "marked_at": "2026-08-13T10:10:44"
     }
   },
-  "last_run": "2026-08-13T08:24:39",
-  "total_sent": 145
+  "last_run": "2026-08-13T10:10:44",
+  "total_sent": 150
 }
