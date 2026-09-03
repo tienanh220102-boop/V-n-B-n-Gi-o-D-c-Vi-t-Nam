@@ -789,8 +789,13 @@
       "so_hieu": "62/CĐ-TTg",
       "ten": "Về việc thực hiện chế độ, chính sách đối với học sinh thuộc diện đối tượng chính",
       "marked_at": "2026-09-03T08:41:26"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219361": {
+      "so_hieu": "73/2026/TT-BGDĐT",
+      "ten": "Quy định phân cấp thẩm quyền của Bộ trưởng Bộ Giáo dục và Đào tạo trong lĩnh vực",
+      "marked_at": "2026-09-03T13:22:32"
     }
   },
-  "last_run": "2026-09-03T08:41:26",
-  "total_sent": 158
+  "last_run": "2026-09-03T13:22:32",
+  "total_sent": 159
 }
