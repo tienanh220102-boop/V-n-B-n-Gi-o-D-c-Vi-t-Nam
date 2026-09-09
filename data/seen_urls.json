@@ -804,8 +804,13 @@
       "so_hieu": "2517/QĐ-BGDĐT",
       "ten": "Về việc công bố thủ tục hành chính bị bãi bỏ lĩnh vực kiểm định chất lượng giáo ",
       "marked_at": "2026-09-07T03:28:14"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219423": {
+      "so_hieu": "72/2026/TT-BGDĐT",
+      "ten": "Quy định về hợp tác, liên kết đào tạo trong giáo dục nghề nghiệp",
+      "marked_at": "2026-09-09T13:33:32"
     }
   },
-  "last_run": "2026-09-09T08:48:12",
-  "total_sent": 161
+  "last_run": "2026-09-09T13:33:32",
+  "total_sent": 162
 }
