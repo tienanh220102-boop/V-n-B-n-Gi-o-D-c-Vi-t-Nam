@@ -814,8 +814,13 @@
       "so_hieu": "74/2026/TT-BGDĐT",
       "ten": "Quy định Danh mục ngành đào tạo các trình độ của giáo dục đại học",
       "marked_at": "2026-09-14T05:56:37"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=219470": {
+      "so_hieu": "353/2026/NĐ-CP",
+      "ten": "Quy định về phổ cập giáo dục mầm non cho trẻ em từ 5 đến 6 tuổi, giáo dục bắt bu",
+      "marked_at": "2026-09-15T13:16:40"
     }
   },
-  "last_run": "2026-09-15T07:23:03",
-  "total_sent": 163
+  "last_run": "2026-09-15T13:16:40",
+  "total_sent": 164
 }
