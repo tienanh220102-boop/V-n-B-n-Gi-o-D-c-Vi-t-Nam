@@ -1004,8 +1004,13 @@
       "so_hieu": "564/TB-VPCP",
       "ten": "Kết luận của Phó Thủ tướng Chính phủ tại cuộc họp về tình hình thực hiện và các ",
       "marked_at": "2026-11-03T07:42:45"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=220181": {
+      "so_hieu": "92/2026/TT-BGDĐT",
+      "ten": "Quy định việc công nhận chứng chỉ để sử dụng trong hệ thống giáo dục quốc dân",
+      "marked_at": "2026-11-04T08:57:52"
     }
   },
-  "last_run": "2026-11-04T02:00:31",
-  "total_sent": 201
+  "last_run": "2026-11-04T08:57:52",
+  "total_sent": 202
 }
