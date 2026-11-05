@@ -1009,8 +1009,18 @@
       "so_hieu": "92/2026/TT-BGDĐT",
       "ten": "Quy định việc công nhận chứng chỉ để sử dụng trong hệ thống giáo dục quốc dân",
       "marked_at": "2026-11-04T08:57:52"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=220195": {
+      "so_hieu": "50/2026/QĐ-TTg",
+      "ten": "Về tín dụng đối với học sinh, sinh viên",
+      "marked_at": "2026-11-05T12:00:06"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=220200": {
+      "so_hieu": "93/2026/TT-BGDĐT",
+      "ten": "Sửa đổi, bổ sung một số điều của các Thông tư quy định chuẩn nghề nghiệp, bổ nhi",
+      "marked_at": "2026-11-05T12:00:06"
     }
   },
-  "last_run": "2026-11-05T03:18:52",
-  "total_sent": 202
+  "last_run": "2026-11-05T12:00:06",
+  "total_sent": 204
 }
