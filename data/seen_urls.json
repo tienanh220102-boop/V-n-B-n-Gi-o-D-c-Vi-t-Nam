@@ -1024,8 +1024,13 @@
       "so_hieu": "95/2026/TT-BGDĐT",
       "ten": "Sửa đổi, bổ sung một số điều của các thông tư của Bộ Giáo dục và Đào tạo ban hàn",
       "marked_at": "2026-11-13T11:59:03"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=220282": {
+      "so_hieu": "2199/QĐ-TTg",
+      "ten": "Phê duyệt Đề án giáo dục quyền con người trong kỷ nguyên phát triển mới của dân ",
+      "marked_at": "2026-11-16T05:20:23"
     }
   },
-  "last_run": "2026-11-15T23:52:16",
-  "total_sent": 205
+  "last_run": "2026-11-16T05:20:23",
+  "total_sent": 206
 }
