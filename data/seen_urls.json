@@ -1054,8 +1054,13 @@
       "so_hieu": "10/2026/VBHN-NĐ-BGDĐT",
       "ten": "Quy định việc công dân Việt Nam ra nước ngoài học tập, giảng dạy, nghiên cứu kho",
       "marked_at": "2026-11-20T08:12:59"
+    },
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=220362": {
+      "so_hieu": "411/2026/NĐ-CP",
+      "ten": "Quy định người nước ngoài làm quản lý, giảng dạy, nghiên cứu khoa học và trao đổ",
+      "marked_at": "2026-11-25T18:32:35"
     }
   },
-  "last_run": "2026-11-25T07:30:45",
-  "total_sent": 211
+  "last_run": "2026-11-25T18:32:35",
+  "total_sent": 212
 }
